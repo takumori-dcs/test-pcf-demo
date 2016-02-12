@@ -12,9 +12,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pivotal</groupId>
 	<artifactId>pcf-demo</artifactId>
-	<name>pcf-demo-${project.version}.${build.number}</name>
+	<name>pcf-demo-${project.version}</name>
 	<packaging>war</packaging>
-	<version>1.0.5</version>
+	<version>1.0.5.${build.number}</version>
 
 	<properties>
 		<java-version>1.6</java-version>
